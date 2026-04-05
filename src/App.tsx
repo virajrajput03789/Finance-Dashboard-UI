@@ -109,7 +109,7 @@ function AppContent() {
         <footer className="mt-24 pt-12 pb-24 border-t border-surface-container flex flex-col md:flex-row justify-between items-center text-on-surface-variant">
           <div className="mb-4 md:mb-0">
             <p className="text-xs font-bold uppercase tracking-[0.2em]">The Sovereign Ledger</p>
-            <p className="text-[10px] mt-1 opacity-60">© 2025 Rajesh Puri. All rights reserved.</p>
+            <p className="text-[10px] mt-1 opacity-60">© 2025. All rights reserved.</p>
           </div>
           <div className="flex gap-8 text-[10px] uppercase tracking-widest font-bold">
             <a className="hover:text-primary" href="#">Legal</a>
